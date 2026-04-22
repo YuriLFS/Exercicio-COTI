@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-coti",
+  "version": "1.0.0",
+  "description": "API REST de produtos desenvolvida com Node.js e Express como parte dos exercícios práticos do curso da COTI Informática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriLFS/Exercicio-COTI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YuriLFS/Exercicio-COTI/issues"
+  },
+  "homepage": "https://github.com/YuriLFS/Exercicio-COTI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
